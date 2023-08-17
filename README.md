@@ -1,6 +1,7 @@
 # DSA in C
 
-Welcome to the **DSA in C** repository! This repository contains a collection of basic programs and implementations of fundamental Data Structures and Algorithms (DSA) concepts in the C programming language. These programs are designed to help you understand and practice DSA concepts.
+Welcome to the **DSA in C** repository! This repository contains a collection of basic programs  and implementations of fundamental Data Structures and Algorithms (DSA) concepts in the C programming language(**30+ programs**).
+This repository also have  programs involving practical implementation of DSA. These programs are designed to help you understand and practice DSA concepts.
 
 ## Programs Included
 
@@ -16,6 +17,21 @@ Welcome to the **DSA in C** repository! This repository contains a collection of
 10. Polynomial Addition
 11. Polynomial Multiplication
 12. Polynomial Subtraction
+13. Browser History using Stacks
+14. Singular Circular Linked List
+15. Binary Search through Iteration
+16. Bubble sort
+17. Optimised Bubble Sort
+18. Circular Queue using Array
+19. Degenerate Tree
+20. Double LinkedList
+21. LinkedListed using Double Pointer Method
+22. Full tree
+23. Linear Search
+24. Own code of insertion Sort
+25. Own code of selection Sort
+26. Traditional Selection Sort code
+27. Searching in Binary Search Tree
 
 ## How to Use
 
