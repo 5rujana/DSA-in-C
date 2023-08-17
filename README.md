@@ -1,6 +1,6 @@
 # DSA in C
 
-Welcome to the **DSA in C** repository! This repository contains a collection of basic programs  and implementations of fundamental Data Structures and Algorithms (DSA) concepts in the C programming language(**30+ programs**).
+Welcome to the **DSA in C** repository! This repository contains a collection of basic programs  and implementations of fundamental Data Structures and Algorithms (DSA) concepts in the C programming language(**25+ programs**).
 This repository also have  programs involving practical implementation of DSA. These programs are designed to help you understand and practice DSA concepts.
 
 ## Programs Included
